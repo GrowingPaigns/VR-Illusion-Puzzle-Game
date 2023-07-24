@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Getable
+  - Wall
+  - Floor
+  - Pointer
+  - TPPoint
+  - FPCam
+  - 1stBuildingInvis
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Camera
+  - Water
+  - UI
+  - Wall
+  - Floor
+  - TakenObject
+  - Pointer
+  - Grabbable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: crosshair
+    uniqueID: 3380036337
+    locked: 0
