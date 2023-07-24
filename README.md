@@ -12,7 +12,7 @@ Eventually, after enough use, I found myself becoming less and less immersed in 
 
 So, I decided to recreate the introductory mechanic from the game _Superliminal_, which itself was a game that brought new life and originality to the industry through the use of illusions. It's fun to try and explain this illusion and the way it works, especially face-to-face with someone, as you typically get a range of different confused looks. So instead of trying to explain the illusion, let me present to you this demo video I created for my course:
 
-[![Watch the video](https://imgur.com/gallery/yAGJJ3h)](https://clipchamp.com/watch/hAzKIzwkAJz)
+[![Watch the video](https://i.imgur.com/ysA0iS7.png)](https://clipchamp.com/watch/hAzKIzwkAJz)
 
 That video contains my initial attempt at this project from the school semester of Fall 2021. The images below show off an overview of the different areas; this level design was horribly implemented/optimized as can be seen in the nearly 8 gb Unity file which you can find under the folder (VR Illusion Project - 2021 Attempt). Since this point, honestly, not a lot has been done to the game. I did a little bug fixing on the mechanics, but the main updates have been to the level. I have recreated the level multiple different times using multiple different methods since 2021, and I feel I have now (2022) found the best way to implement levels in a 3D space. Eventually, this repository will be updated with another folder containing an updated level, refined mechanics, and new additions not seen in the above video. When will that happen? I don't know. 
 
